@@ -6,16 +6,16 @@
 
 I develop intelligent embedded systems and AI platforms focused on:
 
-- 🤖 AI-Powered Interactive Robot
-- 📚 Education Technology (EduDial)
-- 🌾 Smart Agriculture (KrishiOs)
-- 🌐 IoT & Home Automation
+- AI-Powered Interactive Robot
+- Education Technology (EduDial)
+- Smart Agriculture (KrishiOs)
+- IoT & Home Automation
 
 ---
 
 ## 🏆 Achievements
-- 🥇 Top 10 – BDApps Innovation Summit 2025  
-- 🏅 Top 5 – Annual Project Fair, ETE Department, RUET  
+- Top 10 – BDApps Innovation Summit 2025  
+- Top 5 – Annual Project Fair, ETE Department, RUET  
 
 ---
 
@@ -38,7 +38,7 @@ IVR learning system designed to bridge the digital divide in rural Bangladesh.
 ### 🌾 KrishiOS – AI-Powered Agriculture Platform  
 Modern agriculture management system for farmers supporting crops, livestock, and marketplace activities.  
 **Features:**  
-- 🌱 AI-powered crop & livestock management with disease detection  
+- AI-powered crop & livestock management with disease detection  
 - 🇧🇩 Bangla first smart farming solution with AI recommendations  
 
 ---
@@ -61,7 +61,7 @@ Modern agriculture management system for farmers supporting crops, livestock, an
 ## 📬 Contact Me
 📧 mohaiminul118@gmail.com  
 📱 +8801857768958  
-📍 Chittagong, Bangladesh  
+📍 Chattogram, Bangladesh  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohaiminul-islam-34023a343) | [Portfolio](https://mysite-mohaiminuls.netlify.app/) | [GitHub](https://github.com/Mahiiim)
 
 ---
