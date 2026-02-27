@@ -1,3 +1,4 @@
+![Cover Image](cover.png)
 # 👋 Hi, I'm Mohaiminul Islam
 
 🎓 B.Sc. in Electronics & Telecommunication Engineering  
