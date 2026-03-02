@@ -15,7 +15,7 @@ I develop intelligent embedded systems and AI platforms focused on:
 ---
 
 ## 🏆 Achievements
-- Top 10 – BDApps Innovation Summit 2025  
+- Top 25 – BDApps Innovation Summit 2025  
 - Top 5 – Annual Project Fair, ETE Department, RUET  
 
 ---
